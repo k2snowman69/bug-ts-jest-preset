@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": true,
+    "sourceMap": false
+  },
+  "exclude": ["./src/**/*.test.*"],
+  "extends": "./tsconfig.json"
+}

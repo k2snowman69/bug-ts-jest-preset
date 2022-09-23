@@ -1,0 +1,8 @@
+# Ignore everything
+**
+
+!/dist-cjs/**
+!/dist/**
+!CHANGELOG.md
+!package.json
+!README.md
